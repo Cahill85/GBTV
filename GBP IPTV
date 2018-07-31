@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTM3U $ExtFilter="SPORTS"
+#EXTINF:-1,Bein Sport FR 1
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/507.ts
+#EXTINF:-1,Bein Sport 1 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7052.ts
+#EXTINF:-1,Bein Sport 2 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7053.ts
+#EXTINF:-1,Bein Sport 3 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7054.ts
+#EXTINF:-1,Bein Sport 4 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7055.ts
+#EXTINF:-1,Bein Sport 5 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7056.ts
+#EXTINF:-1,Bein Sport 6 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7057.ts
+#EXTINF:-1,Bein Sport 7 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7058.ts
+#EXTINF:-1,Bein Sport 8 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7059.ts
+#EXTINF:-1,Bein Sport 9 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7060.ts
+#EXTINF:-1,Bein Sport 10 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7061.ts
+#EXTINF:-1,Bein Sport 11 SD
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/7062.ts
+#EXTINF:-1,Bein Sport HD 1
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/12.ts
+#EXTINF:-1,Bein Sport HD 3
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/14.ts
+#EXTINF:-1,Bein Sport HD 4
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/867.ts
+#EXTINF:-1,Bein Sport HD 5
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/864.ts
+#EXTINF:-1,Bein Sport HD 6
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/911.ts
+#EXTINF:-1,Bein Sport HD 7
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/912.ts
+#EXTINF:-1,Bein Sport HD 8
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/874.ts
+#EXTINF:-1,Bein Sport HD 9
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/873.ts
+#EXTINF:-1,Bein Sport HD 11
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/866.ts
+#EXTINF:-1,Bein Sport HD 14
+http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/869.ts
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://topiptv.net:5890/live/boga/boga/5993.ts
+#EXTINF:-1,beIN SPORTS 1HD
+http://topiptv.net:5890/live/boga/boga/1.ts
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://topiptv.net:5890/live/boga/boga/5994.ts
+#EXTINF:-1,beIN SPORTS 2HD
+http://topiptv.net:5890/live/boga/boga/3.ts
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://topiptv.net:5890/live/boga/boga/5995.ts
+#EXTINF:-1,beIN SPORTS 3HD
+http://topiptv.net:5890/live/boga/boga/5.ts
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://topiptv.net:5890/live/boga/boga/6011.ts
+#EXTINF:-1,beIN SPORTS 4HD
+http://topiptv.net:5890/live/boga/boga/7.ts
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://topiptv.net:5890/live/boga/boga/6010.ts
+#EXTINF:-1,beIN SPORTS 5HD
+http://topiptv.net:5890/live/boga/boga/9.ts
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://topiptv.net:5890/live/boga/boga/6009.ts
+#EXTINF:-1,beIN SPORTS 6HD
+http://topiptv.net:5890/live/boga/boga/11.ts
+#EXTINF:-1,beIN SPORTS 7 FHD
+http://topiptv.net:5890/live/boga/boga/6008.ts
+#EXTINF:-1,beIN SPORTS 7HD
+http://topiptv.net:5890/live/boga/boga/13.ts
+#EXTINF:-1,beIN SPORTS 8 FHD
+http://topiptv.net:5890/live/boga/boga/6007.ts
+#EXTINF:-1,beIN SPORTS 8HD
+http://topiptv.net:5890/live/boga/boga/15.ts
+#EXTINF:-1,beIN SPORTS 9 FHD
+http://topiptv.net:5890/live/boga/boga/6006.ts
+#EXTINF:-1,beIN SPORTS 9HD
+http://topiptv.net:5890/live/boga/boga/17.ts
+#EXTINF:-1,beIN SPORTS 10 FHD
+http://topiptv.net:5890/live/boga/boga/6005.ts
+#EXTINF:-1,beIN SPORTS 10HD
+http://topiptv.net:5890/live/boga/boga/19.ts
+#EXTINF:-1,beIN SPORTS 11HD
+http://topiptv.net:5890/live/boga/boga/21.ts
+#EXTINF:-1,beIN SPORTS 12HD
+http://topiptv.net:5890/live/boga/boga/22.ts
+#EXTINF:-1,beIN SPORTS 13HD
+http://topiptv.net:5890/live/boga/boga/1156.ts
+#EXTINF:-1,beIN SPORTS 14HD
+http://topiptv.net:5890/live/boga/boga/1157.ts
+#EXTINF:-1,beIN SPORTS 15HD
+http://topiptv.net:5890/live/boga/boga/1158.ts
+#EXTINF:-1,beIN SPORTS 16HD
+http://topiptv.net:5890/live/boga/boga/1159.ts
+#EXTINF:-1,beIN SPORTS 17HD
+http://topiptv.net:5890/live/boga/boga/2589.ts
+#EXTINF:-1,Bein Sport HD1 1080i
+http://linux-app.tv:8000/live/Ott/Ott/127.ts
+#EXTINF:-1,Bein Sport HD2 1080i
+http://linux-app.tv:8000/live/Ott/Ott/128.ts
+#EXTINF:-1,Bein Sport HD3 1080i
+http://linux-app.tv:8000/live/Ott/Ott/129.ts
+#EXTINF:-1,Bein Sport HD4 1080i
+http://linux-app.tv:8000/live/Ott/Ott/130.ts
+#EXTINF:-1,Bein Sport HD5 1080i
+http://linux-app.tv:8000/live/Ott/Ott/132.ts
+#EXTINF:-1,Bein Sport HD6 1080i
+http://linux-app.tv:8000/live/Ott/Ott/133.ts
+#EXTINF:-1,Bein Sport HD7 1080i
+http://linux-app.tv:8000/live/Ott/Ott/134.ts
+#EXTINF:-1,Bein Sport HD8 1080i
+http://linux-app.tv:8000/live/Ott/Ott/135.ts
+#EXTINF:-1,Bein Sport HD9 1080i
+http://linux-app.tv:8000/live/Ott/Ott/186.ts
+#EXTINF:-1,Bein Sport HD10 1080i
+http://linux-app.tv:8000/live/Ott/Ott/187.ts
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://linux-app.tv:8000/live/Ott/Ott/188.ts
+#EXTINF:-1,Bein Sport HD12 EN
+http://linux-app.tv:8000/live/Ott/Ott/189.ts
+#EXTINF:-1,Bein Sport HD13 EN
+http://linux-app.tv:8000/live/Ott/Ott/1694.ts
+#EXTINF:-1,Bein Sport HD14 FR
+http://linux-app.tv:8000/live/Ott/Ott/2555.ts
+#EXTINF:-1,Bein Sport HD15 FR
+http://linux-app.tv:8000/live/Ott/Ott/4763.ts
+#EXTINF:-1,Bein Sport HD16 FR
+http://linux-app.tv:8000/live/Ott/Ott/4762.ts
+#EXTINF:-1,Bein Sport HD17 ES
+http://linux-app.tv:8000/live/Ott/Ott/4761.ts
+#EXTINF:-1,Bein Sport HD1 720P
+http://linux-app.tv:8000/live/Ott/Ott/9022.ts
+#EXTINF:-1,Bein Sport HD2 720P
+http://linux-app.tv:8000/live/Ott/Ott/9021.ts
+#EXTINF:-1,Bein Sport HD3 720P
+http://linux-app.tv:8000/live/Ott/Ott/9020.ts
+#EXTINF:-1,Bein Sport HD4 720P
+http://linux-app.tv:8000/live/Ott/Ott/9019.ts
+#EXTINF:-1,Bein Sport HD5 720P
+http://linux-app.tv:8000/live/Ott/Ott/9018.ts
+#EXTINF:-1,Bein Sport HD6 720P
+http://linux-app.tv:8000/live/Ott/Ott/9017.ts
+#EXTINF:-1,Bein Sport HD7 720P
+http://linux-app.tv:8000/live/Ott/Ott/9016.ts
+#EXTINF:-1,Bein Sport HD8 720P
+http://linux-app.tv:8000/live/Ott/Ott/9015.ts
+#EXTINF:-1,Bein Sport HD9 720P
+http://linux-app.tv:8000/live/Ott/Ott/9014.ts
+#EXTINF:-1,Bein Sport HD10 720P
+http://linux-app.tv:8000/live/Ott/Ott/9013.ts
+#EXTINF:-1,Bein Sport HD11 EN 720P
+http://linux-app.tv:8000/live/Ott/Ott/9012.ts
+#EXTINF:-1,bein Sport SD1
+http://linux-app.tv:8000/live/Ott/Ott/1913.ts
+#EXTINF:-1,Bein Sport SD2
+http://linux-app.tv:8000/live/Ott/Ott/1914.ts
+#EXTINF:-1,Bein Sport SD3
+http://linux-app.tv:8000/live/Ott/Ott/1915.ts
+#EXTINF:-1,Bein Sport SD4
+http://linux-app.tv:8000/live/Ott/Ott/1916.ts
+#EXTINF:-1,Bein Sport SD5
+http://linux-app.tv:8000/live/Ott/Ott/1917.ts
+#EXTINF:-1,Bein Sport SD6
+http://linux-app.tv:8000/live/Ott/Ott/1918.ts
+#EXTINF:-1,Bein Sport SD7
+http://linux-app.tv:8000/live/Ott/Ott/1919.ts
+#EXTINF:-1,Bein Sport SD8
+http://linux-app.tv:8000/live/Ott/Ott/1920.ts
+#EXTINF:-1,Bein Sport SD9
+http://linux-app.tv:8000/live/Ott/Ott/1921.ts
+#EXTINF:-1,Bein Sport SD10
+http://linux-app.tv:8000/live/Ott/Ott/1922.ts
+#EXTINF:-1,Bein Sport SD11
+http://linux-app.tv:8000/live/Ott/Ott/1923.ts
+#EXTINF:-1,Bein Sport SD12
+http://linux-app.tv:8000/live/Ott/Ott/1924.ts
