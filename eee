@@ -1,3 +1,4 @@
+#EXTM3U $ExtFilter="SPORT"  
 EXTINF:-1,A&E HD US
 http://185.180.15.200:8080/live/rami/12345678/14399.ts
 EXTINF:-1,ABC News US
