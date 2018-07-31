@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport FR 1
-http://fserver.yellowiptv.com/live/hls/7d7e5865d17f0cf/507.ts
+#EXTINF:-1,A&E FHD US
+http://185.180.15.200:8080/live/rami/12345678/4960.ts
